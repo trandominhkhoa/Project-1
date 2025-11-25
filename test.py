@@ -5,3 +5,4 @@ if age >= 18:
 else:
     print("Bạn chưa đủ tuổi trưởng thành")
 print("xong")
+
