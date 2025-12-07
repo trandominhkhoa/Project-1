@@ -97,7 +97,7 @@ else:
     length = int(input("Vui lòng nhập độ dài mật khẩu:" ))
     password += "".join(random.choices(upper + lower + numbers + symbols,k=length))
     print("Mật khẩu bạn là:", password)
-
+print("Xin cảm ơn")
 
 
 
