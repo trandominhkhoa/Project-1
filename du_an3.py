@@ -58,7 +58,6 @@ if requirements == 1:
 
     random.shuffle(password_char)
 
-    
     while True:
         random.shuffle(password_char)
         isPw = True
